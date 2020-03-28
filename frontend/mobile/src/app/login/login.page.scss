@@ -1,0 +1,37 @@
+.logo{
+    font-size: 5em;
+}
+:host{
+
+
+    
+        ion-content {
+            --background: linear-gradient(135deg, var(--ion-color-dark), var(--ion-color-primary));
+        }
+    
+    --ion-background-color:transparent;
+    --ion-background-color-rgb: 247,11,54;
+  
+    --ion-text-color: #ffffff;
+    --ion-text-color-rgb: 255,255,255;
+  
+    --ion-color-step-50: #f71740;
+    --ion-color-step-100: #f8234a;
+    --ion-color-step-150: #f83054;
+    --ion-color-step-200: #f93c5e;
+    --ion-color-step-250: #f94868;
+    --ion-color-step-300: #f95472;
+    --ion-color-step-350: #fa607c;
+    --ion-color-step-400: #fa6d86;
+    --ion-color-step-450: #fb7990;
+    --ion-color-step-500: #fb859b;
+    --ion-color-step-550: #fb91a5;
+    --ion-color-step-600: #fc9daf;
+    --ion-color-step-650: #fcaab9;
+    --ion-color-step-700: #fdb6c3;
+    --ion-color-step-750: #fdc2cd;
+    --ion-color-step-800: #fdced7;
+    --ion-color-step-850: #fedae1;
+    --ion-color-step-900: #fee7eb;
+    --ion-color-step-950: #fff3f5;
+}

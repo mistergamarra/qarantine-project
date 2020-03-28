@@ -1,0 +1,7 @@
+{
+  "name": "pescaprecio",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
